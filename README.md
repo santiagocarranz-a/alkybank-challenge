@@ -64,5 +64,3 @@ Lea CONTRIBUTING.md para conocer cómo contribuir a este proyecto.
 * **Fernandez Octavio** - *Work Start* - [octavioismael-fer](https://github.com/octavioismael-fer)
 * **Gaitan Gaston** - *Work Start* - [gaston1905](https://github.com/Gaston1905)
 * **Ruben** - *Work Start* - [RaCode75](https://github.com/RaCode75)
-
-También puede consultar la lista de todos los [contribuyentes](https://github.com/santiagocarranz-a/alkybank-challenge/graphs/contributors) que han participado en este proyecto. 
