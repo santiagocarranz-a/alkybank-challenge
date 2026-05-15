@@ -1,59 +1,49 @@
-<h1 align="center">Alkybank e-wallet</h1>
-<br>
 <p align ="center">
   <img src="https://github.com/santiagocarranz-a/AlkyBank-Alkemy-ang/blob/2cde34b0f20b1b47117c2ca347149a0c44c01b8f/alkemybankfondo.png" alt="alkemy-logo"/>
 </p>
 
-**Alkybank e-wallet** es una aplicación de home banking desarrollada como parte de una práctica en Alkemy. Este proyecto está diseñado para ofrecer una experiencia de usuario completa en la gestión de cuentas bancarias, permitiendo a los clientes registrarse, consultar el estado de su cuenta, administrar transacciones y realizar operaciones bancarias.
+# Alkybank Wallet
 
-Mira una [demostración en YouTube](https://www.youtube.com/watch?v=OP3Zat0ImV4).
+Aplicación web tipo home banking desarrollada como práctica de desarrollo frontend con Angular, simulando flujos básicos de gestión de cuentas, usuarios y operaciones.
 
-## Comenzando 🚀
+El proyecto está orientado a la construcción de una SPA con consumo de APIs, manejo de estado y formularios reactivos, en un entorno guiado de trabajo en equipo con prácticas de desarrollo colaborativo.
 
-Sigue estas instrucciones para obtener una copia del proyecto en funcionamiento en tu máquina local para desarrollo y pruebas.
+## Objetivo
 
-### requisitos previos 📋
+El objetivo del proyecto fue aplicar conceptos de desarrollo frontend con Angular en un escenario funcional, trabajando sobre:
 
-Necesitas tener instalados los siguientes programas:
+- Gestión de usuarios y autenticación
+- Visualización de cuentas y transacciones
+- Formularios reactivos para operaciones bancarias
+- Manejo de estado en una SPA
+- Consumo de APIs REST
 
-- IDE (por ejemplo, [Visual Studio Code](https://code.visualstudio.com/))
-- [Node.js](https://nodejs.org/en/download/) (incluye npm)
-- [Angular CLI](https://angular.io/cli)
+## Tecnologías utilizadas
 
-### Configuración del Proyecto 🔧
+- Angular
+- TypeScript
+- Angular Material
+- Bootstrap
+- RxJS
+- Git / GitHub
 
-1. Descarga e instala [Node.js](https://nodejs.org/en/download/).
-2. Descarga e instala [Visual Studio Code](https://code.visualstudio.com/).
-3. Instala Angular CLI ejecutando:
+## Enfoque de desarrollo
 
-   ```bash
-   npm install -g @angular/cli
+El desarrollo se realizó siguiendo una estructura de componentes reutilizables, separación de responsabilidades y consumo de servicios para la comunicación con APIs.
 
-_Repositorio de clones_
+Se trabajó sobre prácticas comunes en aplicaciones SPA, como el uso de routing, formularios reactivos y manejo de observables.
 
-```
-git clone https://github.com/santiagocarranz-a/alkybank-challenge.git
-```
+## Aprendizaje
 
-## Despliegue 📦
+Este proyecto permitió reforzar conceptos de:
 
-```
-ng build
-```
+- Arquitectura de aplicaciones Angular
+- Manejo de estado y asincronía con RxJS
+- Diseño de interfaces responsive
+- Consumo de APIs REST
+- Trabajo con flujos similares a entornos ágiles
 
-## construido con 🛠️
-
-_Herramientas utilizadas para crear su proyecto_
-
-* [Angular](https://angular.io/) - Framework para desarrollo web.
-* [Angular Material](https://material.angular.io/)  - Componentes de Material Design para Angular.
-* [Tailwind CSS](https://tailwindcss.com/) - Framework CSS.
-* [NGRX](https://ngrx.io/) - Gestión de estado(store).
-* [NGX-logger](https://github.com/dbfannin/ngx-logger) - Logs.
-* [ng2-charts](https://github.com/valor-software/ng2-charts) - Gráficos.
-
-Contribuciones 🖇️
-Lea CONTRIBUTING.md para conocer cómo contribuir a este proyecto.
+---
 
 ## Autores ✒️
 
